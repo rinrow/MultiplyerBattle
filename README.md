@@ -1,2 +1,3 @@
 # MultiplyerBattle
- This game show - who are you
+ Timyr Mytagirov
+ 
